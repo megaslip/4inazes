@@ -6,6 +6,8 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    std::cout << "3ISP9-26VB\n";
+    std::cout << "Denisov, Zhuravlev\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
